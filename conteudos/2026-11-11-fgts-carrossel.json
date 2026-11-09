@@ -1,0 +1,29 @@
+{
+  "titulo": "FGTS: como verificar os depósitos",
+  "texto": "Confira seu extrato e acompanhe os depósitos.",
+  "fonte": "Lei 8.036/1990, art. 15",
+  "observacao": "Informativo; não substitui orientação individual.",
+  "rede": "instagram",
+  "slides": [
+    {
+      "titulo": "FGTS: os depósitos estão em dia?",
+      "texto": "Veja como acompanhar os valores depositados pelo empregador."
+    },
+    {
+      "titulo": "Quem deve depositar?",
+      "texto": "Em regra, o empregador deposita 8% da remuneração do trabalhador na conta vinculada do FGTS."
+    },
+    {
+      "titulo": "Como consultar?",
+      "texto": "Acesse o aplicativo FGTS, entre na sua conta e consulte o extrato do vínculo de emprego."
+    },
+    {
+      "titulo": "O que conferir?",
+      "texto": "Observe os meses trabalhados, os valores e possíveis períodos sem depósitos."
+    },
+    {
+      "titulo": "Encontrou diferenças?",
+      "texto": "Guarde o extrato e os comprovantes. A análise do caso depende dos documentos e das circunstâncias."
+    }
+  ]
+}
